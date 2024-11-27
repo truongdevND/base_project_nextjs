@@ -1,11 +1,11 @@
 import AuthLayout from "../layouts/Authlayout"
-//import DefaultLayout from "@/app/layouts/DefaultLayout"
+import DefaultLayout from "../layouts/DefaultLayout"
 export default function layout({children}) {
     return (
-        <AuthLayout>
+        <DefaultLayout>
             
             {children}
             
-        </AuthLayout>
+        </DefaultLayout>
     )
 }

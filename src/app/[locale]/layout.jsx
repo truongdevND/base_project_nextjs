@@ -1,8 +1,11 @@
 // 'use client'
+// src\app\[locale]\layout.jsx
 import { NextIntlClientProvider } from 'next-intl';
 import { getMessages } from 'next-intl/server';
 import { notFound } from 'next/navigation';
 import { routing } from '@/i18n/routing';
+import "./globals.css";
+import '@fortawesome/fontawesome-free/css/all.min.css';
 
 export default async function LocaleLayout({ children, params }) {
   // Await the params to access their properties safely

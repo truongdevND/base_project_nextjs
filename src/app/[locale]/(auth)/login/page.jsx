@@ -9,7 +9,7 @@ const LoginPage = () => {
       <h1>{t('title')}</h1>
       <form>
         <div>
-          <label htmlFor="email">{t('email')}</label>
+          <label className='text-[100px]' htmlFor="email">{t('email')}</label>
           <input type="email" id="email" name="email" />
         </div>
         <div>
