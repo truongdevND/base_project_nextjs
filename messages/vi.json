@@ -1,0 +1,20 @@
+{
+  "HomePage": {
+    "title": "Xin chào thế giới!",
+    "about": "Đi đến trang giới thiệu"
+  },
+  
+  "login": {
+    "title": "Đăng nhập",
+    "email": "Email",
+    "password": "Mật khẩu",
+    "submit": "Đăng nhập"
+  },
+  "signup": {
+    "title": "Đăng ký",
+    "username": "Tên người dùng",
+    "email": "Email",
+    "password": "Mật khẩu",
+    "submit": "Đăng ký"
+  }
+}

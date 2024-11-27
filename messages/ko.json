@@ -1,0 +1,21 @@
+{
+    "HomePage": {
+      "title": "안녕하세요, 세계!",
+      "about": "소개 페이지로 이동"
+    },
+    
+    "login": {
+      "title": "로그인",
+      "email": "이메일",
+      "password": "비밀번호",
+      "submit": "로그인"
+    },
+    "signup": {
+      "title": "회원가입",
+      "username": "사용자 이름",
+      "email": "이메일",
+      "password": "비밀번호",
+      "submit": "회원가입"
+    }
+  }
+  
